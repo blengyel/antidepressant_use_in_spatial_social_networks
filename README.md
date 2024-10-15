@@ -9,11 +9,14 @@ I. Town-level tables
 4. iWiW_town_edges: aggregate number of friendship connections between towns
 5. iWiW_town_nodes: town identifier, number of iWiW users, population, GPS coordinates
 
-II. Individual table
+II. iWiW shape file
+These files can be used to generate the thematic map in Figure 1B.
+
+III. Individual table
 
 6. id_master_v3: contains the matched sample. Individual information includes quantity of antidepressant usage, node-level network measures, town id, gender. We leave out the age of individuals that makes it impossible to identify individual users. 
 
-II. Code to reproduce results in the main paper
+IV. Code to reproduce results in the main paper
 7. Figure 1_2.R
 All code that produces components of Figure 1B, and Figure 2B,C,D.
 
