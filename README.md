@@ -15,7 +15,7 @@ These files can be used to generate the thematic map in Figure 1B.
 
 III. Individual table
 
-6. id_master_v3: contains the matched sample. Individual information includes quantity of antidepressant usage, node-level network measures, a randomized town id, gender. We aggregate the age of individuals to cohorts of 10 yars (and add a 65+ category) that makes it impossible to identify individual users. Random noise was added to town-level unemployment and income.
+6. id_master_v3_agegroup: contains the matched sample. Individual information includes quantity of antidepressant usage by years, node-level network measures, gender. We aggregate the age of individuals to cohorts of 10 years (and add a 60+ category). Town IDs are not, only county IDs are published. Normally distributed random noise was added to town-level unemployment, income, and distance to psychiatry by keeping the mean to be the towns' empirical value. 
 
 IV. Code to reproduce results in the main paper
 
