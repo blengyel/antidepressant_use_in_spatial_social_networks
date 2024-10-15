@@ -10,6 +10,7 @@ I. Town-level tables
 5. iWiW_town_nodes: town identifier, number of iWiW users, population, GPS coordinates
 
 II. iWiW shape file
+
 These files can be used to generate the thematic map in Figure 1B.
 
 III. Individual table
