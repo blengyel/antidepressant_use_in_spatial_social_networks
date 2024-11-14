@@ -28,4 +28,4 @@ Code contains regression models run on individual data and visualization of coef
 9. Table 1.R
 Code contains the generation of the IV variable, regression models run on individual data. This original code contains reference to the age variable that is left out from the individual table.
 
-V. Additional files due to dropped city identifier. These files are created from the full dataset (explained in the code): analyzed_towns.csv, IV.csv.
+V. Additional files due to dropped city identifier: "analyzed_towns.csv", "IV.csv". These files are created from the full dataset but are written into separate files (explained in the code) that can be then merged to the published data without violating individual privacy.
